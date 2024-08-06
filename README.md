@@ -19,4 +19,4 @@ This project involves the analysis of Amazon sales data using MySQL. The dataset
 - MySQL: For data storage and analysis
 
 ## visualization of this project
-https://public.tableau.com/views/AccordionMenuAmazonSalesDataAnalysis/AccordionMenu?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AccordionMenuAmazonsalesDataAnalysis/AccordionMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
